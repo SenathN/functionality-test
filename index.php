@@ -6,9 +6,9 @@
     <title>Functionality</title>
 </head>
 <body>
-    <h3>Functionality test</h3>
+    <h3>Git Functionality test</h3>
 
-    <p>Functionality testing has started now.</p>
+    <p>Functionality testing has started a while ago.</p>
     <b style="width:100%;font-size:large;">TEST</b>
 </body>
 </html>
