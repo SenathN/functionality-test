@@ -8,6 +8,7 @@
 <body>
     <h3>Functionality test</h3>
 
-    <p>Test sentence</p>
+    <p>Functionality testing has started now.</p>
+    <b style="width:100%;font-size:large;">TEST</b>
 </body>
 </html>
