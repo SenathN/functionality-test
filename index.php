@@ -23,11 +23,11 @@
         </tr>
         <tr>
             <td>1</td>
-            <td>Hello world!</td>
+            <td>Bye plannet!</td>
         </tr>
         <tr>
             <td>2</td>
-            <td>Good Bye!</td>
+            <td>Evil curses upon your filthy lives!</td>
         </tr>
     </table>
 </body>
