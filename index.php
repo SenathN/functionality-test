@@ -23,11 +23,11 @@
         </tr>
         <tr>
             <td>1</td>
-            <td>Hello</td>
+            <td>Hello world!</td>
         </tr>
         <tr>
             <td>2</td>
-            <td>Bye!</td>
+            <td>Good Bye!</td>
         </tr>
     </table>
 </body>
