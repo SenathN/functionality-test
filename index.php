@@ -23,11 +23,11 @@
         </tr>
         <tr>
             <td>1</td>
-            <td>Greetings planet!</td>
+            <td>Bye plannet!</td>
         </tr>
         <tr>
             <td>2</td>
-            <td>Top of the farewells!</td>
+            <td>Evil curses upon your filthy lives!</td>
         </tr>
     </table>
 </body>
